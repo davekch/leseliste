@@ -1,0 +1,8 @@
+*Here's what I do*
+
+/add - füge ein Buch zur Leseliste hinzu (einfach Titel/Autor\*In direkt nach den Befehl schreiben)
+/addarticle - füge einen Artikel zur Leseliste hinzu (genau wie oben)
+/list - zeigt die gesamte Leseliste
+/markasread - markiere einen Eintrag in der Leseliste als 'gelesen' (einfach das Kürzel des Eintrags (das findest du mit /list raus) direkt nach den Befehl schreiben)
+/remove - lösche einen Eintrag aus der Leseliste (auch wieder mit dem Kürzel)
+/resetlist - lösche alles
